@@ -1,0 +1,19 @@
+{
+    "name": "fengtest/fengtest",
+    "description": "我的描述",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangfeng",
+            "email": "646895437@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    "psr-4":{
+        "Fengtest\\Fengfengtest\\":"src/Fengtest/Fengfengtest"
+    }
+}
+}
